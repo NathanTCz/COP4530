@@ -1,0 +1,10 @@
+BUG 001:
+When testing summary. it sometimes shows random values. I was not able to resolve this issue.
+I ran the program through gdb and didnt find aything. When I ran it through valgrind, I was 
+presented with a lot of errors concerning "uninitialised values". It points to a function where
+the values are indeed initialised, so I was not able to debug it further. 
+
+BUG 002:
+If the commands are not entered properly then the program exits with failure upon trying to access
+elements in a vector that do not exit (because the command is parsed as a vector). This was left 
+intentially as we were told in recitation that error checking the commands was not necessary.

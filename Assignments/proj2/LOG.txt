@@ -1,0 +1,7 @@
+    Development log: Assignment 2
+    Name: Nathan Cazell
+    
+Sept 24, 2013: Wrote header files for classes Vector, stack, and queue. Started implementing Vector functions.
+Sept 25, 2013: Finished implementing and testing Vector and stack classes.
+Sept 27, 2013: Finished implementing queue class using the Vector class.
+Sept 30, 2013: Analyzed the time complexity of the recursive and vector implementations.  

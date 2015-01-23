@@ -1,0 +1,8 @@
+BUG 001:
+My program grabs one more similar play than the sample executable. I have
+checked the algorithm and it seems to be fine.
+
+BUG 002:
+If the commands are not entered properly then the program exits with failure upon trying to access
+elements in a vector that do not exit (because the command is parsed as a vector). This was left 
+intentially as we were told in recitation that error checking the commands was not necessary.

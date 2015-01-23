@@ -1,0 +1,20 @@
+
+  Developement Log: Assignment 1
+  Name: Nathan Cazell
+
+Sept 04, 2013: Draw out Class relation diagrams for classes Database, Play, and Parse.
+Sept 05, 2013: Defined class attributes and functions. Began implementing some functions.
+Sept 06, 2013: Wrote basic class functions and started main.cpp.
+Sept 08, 2013: Starting parse file process. Learned how to implement vectors. Ran into some
+               problems storing objects within vectors but figured out it was a simple syntax error.
+Sept 09, 2013: Continued implementing Parse class. Wrote Explode() function for the PHP equivalent to
+               in order to parse each comma delimited value in the file.
+Sept 10, 2013: Essentially finished main.cpp driver program. Don't really need to change this one anymore.
+Sept 11, 2013: Began implementing functions for Play class such a gets and sets and play query functions.
+Sept 13, 2013: Implemented searching of Plays and setting type of play.
+Sept 14, 2013: Wrote operations for summary command. Ran into problems with float values but changed
+               to double type numbers and seemed to get rid of some problems. Still have issues with
+               random values showing up in percentages.
+Sept 16, 2013: Aqcuired help from Josh Lawrence grad student who came into the systems office today. Suggested I
+               use valgrind and gdb to attempt to locate the source of the random numbers. Implemented List
+               command and finished project.

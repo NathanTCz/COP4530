@@ -1,0 +1,8 @@
+
+  Developement Log: Assignment 3
+  Name: Nathan Cazell
+
+Nov 4, 2013: wrote and implemented the bst class.
+Nov 5, 2013: finished integrating the rest of the program
+             to work with bst
+Nov 6, 2013: finished implemented advaned features.

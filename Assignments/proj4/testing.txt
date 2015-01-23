@@ -1,0 +1,2 @@
+BUG 001:
+The program segfaults in the rotate. This is because it dereferences a null pointer specifically x->left, that means that it has no children, which does not make any sense because I was testing with a node that was at the top of the tree. I have checked with the book, the John the TA and all of my algorithms are correct. I have commented it out : line 44 in database.cpp

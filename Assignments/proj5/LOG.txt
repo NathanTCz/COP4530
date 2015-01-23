@@ -1,0 +1,7 @@
+
+  Developement Log: Assignment 3
+  Name: Nathan Cazell
+
+Nov 25, 2013: stripped unneeded code. implemented additional data structure.
+              In addition to unordered set, I used a vector.
+Nov 26, 2013: added timing and parallel processing for efficiency.

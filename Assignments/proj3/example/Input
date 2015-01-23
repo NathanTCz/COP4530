@@ -1,0 +1,11 @@
+print 3
+list 5 46 NYG DAL 1 10 58
+list 1 47 NYG DAL 1 10 58
+list 5 46 NYG DAL 1 10 58
+list 5 46 NYG DAL 1 10 58
+print 3
+summary NYG 1 10 58
+print 3
+list 5 46 NYG DAL 1 10 58
+print 3
+x

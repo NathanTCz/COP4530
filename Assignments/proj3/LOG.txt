@@ -1,0 +1,9 @@
+
+  Developement Log: Assignment 3
+  Name: Nathan Cazell
+
+Oct 14, 2013: Defined and implemented the Doubly Linked List (Dll) class.
+Oct 15, 2013: Converted the rest of the program to fit with the use of Dll class instead of vectors.
+              Asked Srinivasan if I could use vectors for parsing the command. Answer was a big YES.
+              Implemented Bubble Sort for Dll.
+Oct 16, 2013: Finished implementing the Sort function and Move to Front function. Fixed Incorrect output.
